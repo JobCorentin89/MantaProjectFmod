@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{0575cf4c-0031-492a-85d5-c827a289bc7d}">
+		<property name="name">
+			<value>ClamType</value>
+		</property>
+		<relationship name="folder">
+			<destination>{986c6ab4-4ee1-43e4-b28a-df70e428a79b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7b9a7ed5-71fa-48a8-9004-70a965d5ed76}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7b9a7ed5-71fa-48a8-9004-70a965d5ed76}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Clam</value>
+			<value>BigClam</value>
+			<value>MegaClam</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
