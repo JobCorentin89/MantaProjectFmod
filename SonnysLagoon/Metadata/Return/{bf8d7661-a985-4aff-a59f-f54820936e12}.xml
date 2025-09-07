@@ -5,7 +5,7 @@
 			<value>2</value>
 		</property>
 		<property name="name">
-			<value>Reverb</value>
+			<value>Reverb_Hall</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0b96de00-5133-4f6b-8c66-3c59923d90f0}</destination>
@@ -14,7 +14,7 @@
 			<destination>{715accfe-d209-49c9-a55f-aff43fbe60ca}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{8e5618fa-3286-4ade-9aee-559c844f498f}</destination>
+			<destination>{c16ac3bd-61a3-4ce7-b1ff-69ca9f2b99f8}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{0b96de00-5133-4f6b-8c66-3c59923d90f0}">
