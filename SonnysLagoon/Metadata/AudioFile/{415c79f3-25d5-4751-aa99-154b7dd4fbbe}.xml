@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{415c79f3-25d5-4751-aa99-154b7dd4fbbe}">
 		<property name="assetPath">
-			<value>QP09 1190 Wetlands lake lap gentle splashy 50 - Pitch 200_0.wav</value>
+			<value>SFX/Placeholders/QP09 1190 Wetlands lake lap gentle splashy 50 - Pitch 200_0.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

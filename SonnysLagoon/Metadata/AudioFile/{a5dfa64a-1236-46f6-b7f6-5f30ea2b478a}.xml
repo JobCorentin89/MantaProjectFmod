@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{a5dfa64a-1236-46f6-b7f6-5f30ea2b478a}">
 		<property name="assetPath">
-			<value>MUSCExpr_Tape Start Stop Cute Casual Beat Win Loose Short 01_Romain R0pe_LetsSing - Pitch 200_0.wav</value>
+			<value>SFX/Placeholders/MUSCExpr_Tape Start Stop Cute Casual Beat Win Loose Short 01_Romain R0pe_LetsSing - Pitch 200_0.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>

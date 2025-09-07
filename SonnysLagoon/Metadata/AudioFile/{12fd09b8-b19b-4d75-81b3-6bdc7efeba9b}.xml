@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{12fd09b8-b19b-4d75-81b3-6bdc7efeba9b}">
 		<property name="assetPath">
-			<value>SFX/Xylo_sol.wav</value>
+			<value>SFX/Placeholders/Xylo_sol.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

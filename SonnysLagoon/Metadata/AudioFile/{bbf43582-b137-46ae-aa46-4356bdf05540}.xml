@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{bbf43582-b137-46ae-aa46-4356bdf05540}">
 		<property name="assetPath">
-			<value>Music/S_FRENCH POP 「Mobo★Moga Marble Version」.wav</value>
+			<value>Music/Placeholders/S_FRENCH POP 「Mobo★Moga Marble Version」.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

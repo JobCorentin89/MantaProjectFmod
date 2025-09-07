@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{585808bd-3269-4557-8662-3f2ac2a4650b}">
 		<property name="assetPath">
-			<value>DSGNSynth_Anim Charge Japan DBZ Power Synth Old School Energy_Romain Rope_RopeLibrary_FreqEcho - Pitch 200_0.wav</value>
+			<value>SFX/Placeholders/DSGNSynth_Anim Charge Japan DBZ Power Synth Old School Energy_Romain Rope_RopeLibrary_FreqEcho - Pitch 200_0.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{72e45d4b-1a26-44fc-a553-d399497dd04a}">
 		<property name="assetPath">
-			<value>SFX/S_Splash_003.wav</value>
+			<value>SFX/Placeholders/S_Splash_003.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>32</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ab4a18b7-488e-4a87-b545-fd1ae4241703}">
 		<property name="assetPath">
-			<value>SFX/Lethal Company - True - Reached Quota.mp3</value>
+			<value>SFX/Placeholders/Lethal Company - True - Reached Quota.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

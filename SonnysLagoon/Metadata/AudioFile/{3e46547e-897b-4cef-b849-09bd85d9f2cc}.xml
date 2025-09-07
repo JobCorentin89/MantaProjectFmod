@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3e46547e-897b-4cef-b849-09bd85d9f2cc}">
 		<property name="assetPath">
-			<value>SFX/S_BuoyPassed.wav</value>
+			<value>SFX/Placeholders/S_BuoyPassed.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>32</value>

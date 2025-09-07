@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{dcd07c5d-9f54-44f9-86b8-6140c9190429}">
 		<property name="assetPath">
-			<value>WATRFlow_Bright Water Stream Soft Long_Romain Rope_WaterIce_D100 XY 02.wav</value>
+			<value>SFX/Placeholders/WATRFlow_Bright Water Stream Soft Long_Romain Rope_WaterIce_D100 XY 02.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>192</value>

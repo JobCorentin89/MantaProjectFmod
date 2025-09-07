@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1b4a0b02-cfd3-4a64-8817-0a6c77a110df}">
 		<property name="assetPath">
-			<value>Music/S_FRENCH POP 「Mobo★Moga Marble Version」 UNDERWATER.wav</value>
+			<value>Music/Placeholders/S_FRENCH POP 「Mobo★Moga Marble Version」 UNDERWATER.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
