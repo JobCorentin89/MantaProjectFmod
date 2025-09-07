@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{19b2c9f1-f474-449b-bdd5-49252fac8e5b}">
+		<property name="name">
+			<value>G_Player_Drift</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6e9ab3d7-44f2-4e52-ac71-362ba1dc90ce}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{666b469f-a8d0-44c4-84b9-1b33e57714e2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{666b469f-a8d0-44c4-84b9-1b33e57714e2}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

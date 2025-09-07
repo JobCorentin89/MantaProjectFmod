@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{1f7652ae-f55d-4aa2-90c8-820a3f5a3b6d}">
+		<property name="name">
+			<value>G_Player_TurnAngle</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6e9ab3d7-44f2-4e52-ac71-362ba1dc90ce}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{1253899a-3934-4251-bb63-d31bf9f21f86}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{1253899a-3934-4251-bb63-d31bf9f21f86}">
+		<property name="minimum">
+			<value>-1</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

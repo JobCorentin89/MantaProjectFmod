@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d1cf806e-e3da-4c85-a4da-0b73e9938a05}">
+		<property name="name">
+			<value>G_Player_Flying</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6e9ab3d7-44f2-4e52-ac71-362ba1dc90ce}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3dbf1b52-27f1-47f4-ab21-da15dfbe971d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3dbf1b52-27f1-47f4-ab21-da15dfbe971d}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

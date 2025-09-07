@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{a8a8f7a0-8d9f-4ac4-95ed-a86893569246}">
+		<property name="name">
+			<value>G_Warping</value>
+		</property>
+		<relationship name="folder">
+			<destination>{788a4dd5-3f79-4d97-8f59-805fffb5c391}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2684b0e9-5269-44ee-b877-d805a129ad8f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2684b0e9-5269-44ee-b877-d805a129ad8f}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

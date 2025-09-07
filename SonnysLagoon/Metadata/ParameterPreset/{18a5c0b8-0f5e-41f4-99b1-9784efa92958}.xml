@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{18a5c0b8-0f5e-41f4-99b1-9784efa92958}">
+		<property name="name">
+			<value>G_SecretRoom</value>
+		</property>
+		<relationship name="folder">
+			<destination>{788a4dd5-3f79-4d97-8f59-805fffb5c391}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e75113ec-7ecb-4107-867d-d64644e607e8}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e75113ec-7ecb-4107-867d-d64644e607e8}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
