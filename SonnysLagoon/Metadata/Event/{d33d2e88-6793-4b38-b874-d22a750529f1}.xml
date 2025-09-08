@@ -85,7 +85,7 @@
 	</object>
 	<object class="ParameterProxy" id="{37727fe3-d7cf-41b9-bc79-d5ab590770f8}">
 		<relationship name="preset">
-			<destination>{b11e384e-3565-4632-a868-92a7226ac2f7}</destination>
+			<destination>{9bc5d3c8-bd56-4969-a187-1bdf87f7a124}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{24073681-a6c7-40d2-a11e-24c63d178026}">
@@ -193,7 +193,7 @@
 	<object class="MixerBusFader" id="{67bcc0d0-d2e7-46b3-86b3-09ec494b4be7}" />
 	<object class="AutomationCurve" id="{b1b9d72e-a64d-4c76-9140-2b0c3eb37a00}">
 		<relationship name="parameter">
-			<destination>{b11e384e-3565-4632-a868-92a7226ac2f7}</destination>
+			<destination>{9bc5d3c8-bd56-4969-a187-1bdf87f7a124}</destination>
 		</relationship>
 		<relationship name="automationPoints">
 			<destination>{6acab9c0-7cce-49b3-8e5d-ad0b4ebce05a}</destination>
@@ -275,7 +275,7 @@
 	</object>
 	<object class="AutomationCurve" id="{235ad8a8-07f7-446b-9e57-1728089d2814}">
 		<relationship name="parameter">
-			<destination>{b11e384e-3565-4632-a868-92a7226ac2f7}</destination>
+			<destination>{9bc5d3c8-bd56-4969-a187-1bdf87f7a124}</destination>
 		</relationship>
 		<relationship name="automationPoints">
 			<destination>{b9914d26-db9f-4ea1-8b25-f1f653fb856a}</destination>
@@ -284,7 +284,7 @@
 	</object>
 	<object class="AutomationCurve" id="{6b5c2cc0-3944-4e40-84ca-27d259952cd6}">
 		<relationship name="parameter">
-			<destination>{b11e384e-3565-4632-a868-92a7226ac2f7}</destination>
+			<destination>{9bc5d3c8-bd56-4969-a187-1bdf87f7a124}</destination>
 		</relationship>
 		<relationship name="automationPoints">
 			<destination>{fdcbf8a9-99fb-4d4a-a1f0-4c15b4d3bce3}</destination>
@@ -293,7 +293,7 @@
 	</object>
 	<object class="AutomationCurve" id="{51a315ca-aa54-4700-b010-1b3692593aed}">
 		<relationship name="parameter">
-			<destination>{b11e384e-3565-4632-a868-92a7226ac2f7}</destination>
+			<destination>{9bc5d3c8-bd56-4969-a187-1bdf87f7a124}</destination>
 		</relationship>
 		<relationship name="automationPoints">
 			<destination>{e37d63b3-4d57-4de4-9b3c-c18c4b25445c}</destination>
