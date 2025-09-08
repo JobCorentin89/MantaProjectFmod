@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{d5b014f3-3dc3-41dc-b57c-a56aed8c0354}">
+		<property name="name">
+			<value>WarpState</value>
+		</property>
+		<relationship name="folder">
+			<destination>{986c6ab4-4ee1-43e4-b28a-df70e428a79b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{89b6a2e9-150b-4edd-8a5f-675b645071d7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{89b6a2e9-150b-4edd-8a5f-675b645071d7}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
