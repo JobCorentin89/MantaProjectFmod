@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{c866b283-e5d8-436b-a6a7-a7a4a47a54ce}">
 		<property name="assetPath">
-			<value>SCIEnrg_ABILITY RELEASE-Liquid Vortex_B00M_MATTER.wav</value>
+			<value>SFX/Placeholders/SCIEnrg_ABILITY RELEASE-Liquid Vortex_B00M_MATTER.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>

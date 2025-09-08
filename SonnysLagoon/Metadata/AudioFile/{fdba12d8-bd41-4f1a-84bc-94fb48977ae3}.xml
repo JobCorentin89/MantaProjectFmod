@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{fdba12d8-bd41-4f1a-84bc-94fb48977ae3}">
 		<property name="assetPath">
-			<value>DSGNSrce_SYNTH TEXTURE-Fluid Core Energy Fast Constant_B00M_SFMCK.wav</value>
+			<value>SFX/Placeholders/DSGNSrce_SYNTH TEXTURE-Fluid Core Energy Fast Constant_B00M_SFMCK.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
