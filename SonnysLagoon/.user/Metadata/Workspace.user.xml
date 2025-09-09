@@ -8,6 +8,10 @@
 			<destination>{910de4bd-8418-4ed1-927e-8550d52264ee}</destination>
 		</relationship>
 	</object>
-	<object class="ProjectSettings" id="{f5c62322-ab93-4f0d-b434-ee41fa85fcd2}" />
+	<object class="ProjectSettings" id="{f5c62322-ab93-4f0d-b434-ee41fa85fcd2}">
+		<property name="windowLayout">
+			<value>AAAAAgAAACgAUABhAHIAYQBtAGUAdABlAHIAcwAgAEIAcgBvAHcAcwBlAHIAIAAxAAAAQgHZ0MsAAwAAAAABuAAAAA8AAANHAAAC9wAAAbgAAAAoAAADRwAAAvcAAAAAAAAAAAUAAAABuAAAACgAAANHAAAC9wAAADAAUwBoAGEAcgBlAGQAIABFAGYAZgBlAGMAdABzACAAQgByAG8AdwBzAGUAcgAgADEAAABCAdnQywADAAAAAAG4AAAADwAAA0cAAAL3AAABuAAAACgAAANHAAAC9wAAAAAAAAAABQAAAAG4AAAAKAAAA0cAAAL3</value>
+		</property>
+	</object>
 	<object class="WorkspaceChangelist" id="{910de4bd-8418-4ed1-927e-8550d52264ee}" />
 </objects>
