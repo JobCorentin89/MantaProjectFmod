@@ -302,6 +302,9 @@
 		<property name="value">
 			<value>-80</value>
 		</property>
+		<property name="curveShape">
+			<value>-0.498773634</value>
+		</property>
 	</object>
 	<object class="Automator" id="{09f404a6-aaba-4f6c-b7b2-11291726d5eb}">
 		<property name="nameOfPropertyBeingAutomated">
