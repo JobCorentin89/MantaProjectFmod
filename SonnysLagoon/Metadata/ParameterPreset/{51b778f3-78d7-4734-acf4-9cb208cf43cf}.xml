@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{51b778f3-78d7-4734-acf4-9cb208cf43cf}">
+		<property name="name">
+			<value>G_Pause</value>
+		</property>
+		<relationship name="folder">
+			<destination>{8648a9ac-db71-40a3-8fd2-5ea9d53e2145}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{31a40ee0-d044-4053-aff3-47c32002ea86}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{31a40ee0-d044-4053-aff3-47c32002ea86}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{6dfc0d15-1bd7-474e-aa17-262db6b7f75f}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{6dfc0d15-1bd7-474e-aa17-262db6b7f75f}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>3.2000000476837158</value>
+		</property>
+	</object>
+</objects>
