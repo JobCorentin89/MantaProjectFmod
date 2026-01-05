@@ -17,6 +17,7 @@
 	<object class="MixerBusEffectChain" id="{08d395e0-55d2-4df4-900a-16b4f560a674}">
 		<relationship name="effects">
 			<destination>{ac9b6e52-7937-48e8-a8d1-8da7fbdc2b84}</destination>
+			<destination>{0295f82b-dc98-4971-b33f-637ee5516fc1}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{75a38d46-7b14-4032-a267-470995a2aee2}">
@@ -25,4 +26,5 @@
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{ac9b6e52-7937-48e8-a8d1-8da7fbdc2b84}" />
+	<object class="LoudnessMeter" id="{0295f82b-dc98-4971-b33f-637ee5516fc1}" />
 </objects>
