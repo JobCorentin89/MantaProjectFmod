@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{cbee41cb-4e15-4eb0-b25e-991162436ae7}">
+		<property name="name">
+			<value>L_Stinger_Word</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6e9cb5d9-b42d-475d-b57c-bea24f782c98}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{9ec37d62-86a0-4de8-bd9e-9730bd96babb}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{9ec37d62-86a0-4de8-bd9e-9730bd96babb}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>WOW</value>
+			<value>SEXY</value>
+			<value>SICK</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
