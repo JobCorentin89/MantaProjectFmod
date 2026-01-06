@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{c5eb298a-2a8c-4fa5-aec1-0d20628a6f76}">
 		<property name="name">
-			<value>Env_WaterFall_EnterCharge</value>
+			<value>Env_WaterFall_EnterChargeShot</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{54a429f3-ffe6-4d5c-8ff4-2e75053c54a5}" />
 	<object class="GroupTrack" id="{fc1e5528-3040-4162-b735-6e8b452a7376}">
 		<relationship name="modules">
-			<destination>{9f538001-45f5-49dc-9733-93a3bd0dfa36}</destination>
+			<destination>{8123ce42-af28-4b45-977e-efe055427af8}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{5e7846a8-a001-4714-b719-9b46e1d3e28d}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{45937503-4efc-4ebb-aecb-a0d60d154a55}">
 		<relationship name="modules">
-			<destination>{9f538001-45f5-49dc-9733-93a3bd0dfa36}</destination>
+			<destination>{8123ce42-af28-4b45-977e-efe055427af8}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{115fd189-e0b6-4c59-bce0-0da6fa264493}">
@@ -88,18 +88,15 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c2231c0c-332f-4ce1-89e9-fcd5eb50c6dc}" />
-	<object class="SingleSound" id="{9f538001-45f5-49dc-9733-93a3bd0dfa36}">
+	<object class="SingleSound" id="{8123ce42-af28-4b45-977e-efe055427af8}">
 		<property name="length">
-			<value>3.01228125</value>
+			<value>7.2000000000000002</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{5898675c-a79c-4b0d-9e07-0e64c51093d5}</destination>
+			<destination>{ecdaeb58-96f0-4153-a9c7-ae004ed2ae21}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{5e7846a8-a001-4714-b719-9b46e1d3e28d}">
-		<property name="volume">
-			<value>-6</value>
-		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
