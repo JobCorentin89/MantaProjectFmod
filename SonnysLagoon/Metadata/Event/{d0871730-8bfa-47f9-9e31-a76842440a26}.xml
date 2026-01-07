@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d0871730-8bfa-47f9-9e31-a76842440a26}">
 		<property name="name">
-			<value>Stinger_ChallengeClear_Small</value>
+			<value>Stinger_ChallengeClear_Default</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
