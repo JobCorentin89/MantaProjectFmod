@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EffectPreset" id="{caca4e67-01a9-49c1-9873-99ae33270892}">
+		<property name="name">
+			<value>Spatializer_Poulp</value>
+		</property>
+		<relationship name="folder">
+			<destination>{828464d2-5da7-4141-9743-41d9c45fda17}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{da1eabe9-d8b1-415a-a016-1adf5a11cf59}</destination>
+		</relationship>
+	</object>
+	<object class="SpatialiserEffect" id="{da1eabe9-d8b1-415a-a016-1adf5a11cf59}">
+		<property name="minimumDistance">
+			<value>20</value>
+		</property>
+		<property name="maximumDistance">
+			<value>250</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>20</value>
+		</property>
+		<property name="minimumExtent">
+			<value>190</value>
+		</property>
+	</object>
+</objects>
