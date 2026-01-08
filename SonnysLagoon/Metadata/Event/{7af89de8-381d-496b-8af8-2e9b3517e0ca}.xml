@@ -113,7 +113,7 @@
 			<value>113.77777083333334</value>
 		</property>
 		<property name="volume">
-			<value>-13</value>
+			<value>-15</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{1a942106-02e2-4460-8ce0-81b7b39e11ad}</destination>
