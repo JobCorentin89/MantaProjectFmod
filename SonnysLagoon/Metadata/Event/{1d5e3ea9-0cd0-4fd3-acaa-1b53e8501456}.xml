@@ -58,7 +58,7 @@
 	</object>
 	<object class="EventAutomatableProperties" id="{af14355a-5123-4429-98e8-749763d7ded4}">
 		<property name="triggerCooldown">
-			<value>150</value>
+			<value>50</value>
 		</property>
 	</object>
 	<object class="MarkerTrack" id="{7ba04f29-4691-489a-a386-890f69af5703}" />
@@ -76,6 +76,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{ccbbb906-211a-4252-9988-a5b88218b23b}">
+		<property name="volume">
+			<value>-2</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{b0b3449c-abae-4198-a1e2-ab5978a6b10a}</destination>
 		</relationship>

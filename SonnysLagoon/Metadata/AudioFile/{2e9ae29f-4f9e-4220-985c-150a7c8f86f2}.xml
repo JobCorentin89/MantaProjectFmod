@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2e9ae29f-4f9e-4220-985c-150a7c8f86f2}">
+		<property name="assetPath">
+			<value>SFX/Player/Player_Grind_Light_Magic_LP.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.666666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
+		</relationship>
+	</object>
+</objects>
