@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EffectPreset" id="{6eae8dc5-de1b-44a0-a508-ae4f8534b2e9}">
+		<property name="name">
+			<value>Spatializer_Waterfall</value>
+		</property>
+		<relationship name="folder">
+			<destination>{828464d2-5da7-4141-9743-41d9c45fda17}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{df43c74c-7a4c-4e61-91ef-711cf432fbf9}</destination>
+		</relationship>
+	</object>
+	<object class="SpatialiserEffect" id="{df43c74c-7a4c-4e61-91ef-711cf432fbf9}">
+		<property name="minimumDistance">
+			<value>20</value>
+		</property>
+		<property name="maximumDistance">
+			<value>250</value>
+		</property>
+		<property name="overrideRange">
+			<value>true</value>
+		</property>
+		<property name="extentMode">
+			<value>1</value>
+		</property>
+		<property name="soundSize">
+			<value>20</value>
+		</property>
+		<property name="minimumExtent">
+			<value>190</value>
+		</property>
+	</object>
+</objects>

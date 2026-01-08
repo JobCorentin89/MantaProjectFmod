@@ -52,7 +52,7 @@
 {e08cbec7-6677-4738-8c9c-42fa02b44cbb} event:/Sfx/InGame/World/Enviro/Env_Fruits_Explode
 {1d5e3ea9-0cd0-4fd3-acaa-1b53e8501456} event:/Sfx/InGame/World/Enviro/Env_Lilypad_Bloom
 {c4b95b23-2136-47a6-8e11-f4e2b3ef053c} event:/Sfx/InGame/World/Enviro/Env_Lilypad_Bloomed_LP
-{feba8fdb-a7df-496a-ba39-d37c08d9b4da} event:/Sfx/InGame/World/Enviro/Env_Powerup_Pad
+{feba8fdb-a7df-496a-ba39-d37c08d9b4da} event:/Sfx/InGame/World/Enviro/Env_Powerup_Pad_LP
 {f4697c3c-933f-41ce-8943-71c5ba4eeb71} event:/Sfx/InGame/World/Enviro/Env_WarpVortex_Interact
 {158ca4a4-9d7b-43bc-a48a-cad6c149875f} event:/Sfx/InGame/World/Enviro/Env_WarpVortex_LP
 {9460a978-6043-45a1-b01f-b571c31e9d0a} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Appear
@@ -60,6 +60,7 @@
 {c5eb298a-2a8c-4fa5-aec1-0d20628a6f76} event:/Sfx/InGame/World/Enviro/Env_WaterFall_EnterChargeShot
 {de5ebc7b-7d28-4396-80c1-ee9641a6fc1f} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Top_Loop
 {cbf03ede-7e91-49f1-8de9-abf5b1e3e071} event:/Sfx/MainMenu/UI/UI_MainMenu_ButtonPress
+{da61847f-e026-4a37-8f8c-99c86e641688} event:/Sfx/MainMenu/UI/UI_MainMenu_ButtonPress_StartGame
 {96d87e5a-9c24-4b6e-af24-98cd44d6aff5} event:/Sfx/MainMenu/UI/UI_MainMenu_Navigate
 {f16cfbd6-48fc-4632-8d87-29e44b4d960b} event:/Sfx/MainMenu/UI/UI_MainMenu_Tweak
 {8c5bb2fd-d62a-4a52-ab1a-328d5d2271f2} event:/Utility/Test_Beep_Loop
