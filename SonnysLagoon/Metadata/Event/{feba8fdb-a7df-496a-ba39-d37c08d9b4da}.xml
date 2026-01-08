@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{feba8fdb-a7df-496a-ba39-d37c08d9b4da}">
 		<property name="name">
-			<value>Env_Powerup_Pad</value>
+			<value>Env_Powerup_Pad_LP</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
