@@ -52,6 +52,8 @@
 {e08cbec7-6677-4738-8c9c-42fa02b44cbb} event:/Sfx/InGame/World/Enviro/Env_Fruits_Explode
 {1d5e3ea9-0cd0-4fd3-acaa-1b53e8501456} event:/Sfx/InGame/World/Enviro/Env_Lilypad_Bloom
 {c4b95b23-2136-47a6-8e11-f4e2b3ef053c} event:/Sfx/InGame/World/Enviro/Env_Lilypad_Bloomed_LP
+{2199ba8a-77aa-4651-ac5a-6bcc614f5253} event:/Sfx/InGame/World/Enviro/Env_Poulp_Move_LP
+{450c90c1-ed31-44eb-bc23-6dd4c6f6c5aa} event:/Sfx/InGame/World/Enviro/Env_Poulp_Startled
 {feba8fdb-a7df-496a-ba39-d37c08d9b4da} event:/Sfx/InGame/World/Enviro/Env_Powerup_Pad_LP
 {f4697c3c-933f-41ce-8943-71c5ba4eeb71} event:/Sfx/InGame/World/Enviro/Env_WarpVortex_Interact
 {158ca4a4-9d7b-43bc-a48a-cad6c149875f} event:/Sfx/InGame/World/Enviro/Env_WarpVortex_LP
