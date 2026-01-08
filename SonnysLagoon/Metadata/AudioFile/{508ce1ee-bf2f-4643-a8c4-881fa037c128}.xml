@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{f693e4d9-ba90-4725-bb57-120c401376d3}">
+	<object class="AudioFile" id="{508ce1ee-bf2f-4643-a8c4-881fa037c128}">
 		<property name="assetPath">
-			<value>SFX/Env/Env_Clam_Small_Pickup_004.wav</value>
+			<value>SFX/Env/Env_Clam_Mega_Pickup.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.73333333333333328</value>
+			<value>1.7925208333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
