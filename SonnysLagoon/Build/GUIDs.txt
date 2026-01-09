@@ -23,6 +23,7 @@
 {a2adb805-0686-4e09-a1e8-0ace32eb3a98} event:/MUSIC/InGame/Music_Level02
 {7af89de8-381d-496b-8af8-2e9b3517e0ca} event:/MUSIC/InGame/Music_Menu
 {ddea4ea1-ed93-4de8-9efc-eaa0061cb5ec} event:/MUSIC/InGame/Referenced/Music_Secret
+{c890a6ac-216e-4b6f-844e-0d3d5968ce09} event:/Sfx/InGame/Dialog/Dialog_Activ_LP
 {ba144466-2809-4d5d-8fce-1d68367394da} event:/Sfx/InGame/Dialog/Dialog_Beep_Generic
 {0b1ae52d-bccd-4663-adec-f011695f9026} event:/Sfx/InGame/Player/Pickups/Pickup_Clam
 {37e60140-333b-4439-9c1f-6009890a4c00} event:/Sfx/InGame/Player/Pickups/Pickup_Coin
@@ -60,6 +61,7 @@
 {9460a978-6043-45a1-b01f-b571c31e9d0a} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Appear
 {7fa32a2f-ac6e-4f10-bd1c-7601a686cb4c} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Base_Loop
 {c5eb298a-2a8c-4fa5-aec1-0d20628a6f76} event:/Sfx/InGame/World/Enviro/Env_WaterFall_EnterChargeShot
+{f3c75002-942e-4e61-8bfd-dbde711c8192} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Shot
 {de5ebc7b-7d28-4396-80c1-ee9641a6fc1f} event:/Sfx/InGame/World/Enviro/Env_WaterFall_Top_Loop
 {cbf03ede-7e91-49f1-8de9-abf5b1e3e071} event:/Sfx/MainMenu/UI/UI_MainMenu_ButtonPress
 {da61847f-e026-4a37-8f8c-99c86e641688} event:/Sfx/MainMenu/UI/UI_MainMenu_ButtonPress_StartGame
@@ -81,6 +83,8 @@
 {8cdbe918-1e5a-4900-b6a2-f0dd35272528} parameter:/Local/L_Grind_Surface
 {9ec37d62-86a0-4de8-bd9e-9730bd96babb} parameter:/Local/L_Stinger_Word
 {89b6a2e9-150b-4edd-8a5f-675b645071d7} parameter:/WarpState
+{eeaf000c-0583-4c6d-b358-6196c89fed6b} snapshot:/Music_Ducking_Death
+{941cbaac-ae53-46ee-a473-4aa4c7162ae6} snapshot:/Music_Ducking_Dialog
 {af378845-1011-456a-af62-bbebc797ebea} snapshot:/Music_Ducking_Hard
 {a71d2861-cb49-4781-8f12-c1d39eb68ab4} snapshot:/Music_Ducking_Light
 {889b15c2-4251-443c-8fbd-dc96bd48a407} vca:/Master
