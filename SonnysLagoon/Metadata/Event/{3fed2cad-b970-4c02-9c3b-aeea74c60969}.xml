@@ -63,7 +63,11 @@
 			<destination>{05a2df61-c4f1-45fc-a471-7fde2fbd8e43}</destination>
 		</relationship>
 	</object>
-	<object class="EventAutomatableProperties" id="{4aab4bba-2e7a-4b35-bedf-0b26733f3959}" />
+	<object class="EventAutomatableProperties" id="{4aab4bba-2e7a-4b35-bedf-0b26733f3959}">
+		<property name="triggerCooldown">
+			<value>50</value>
+		</property>
+	</object>
 	<object class="MarkerTrack" id="{5f99e7c9-8ce5-48d7-b8d8-1bcafe76ed37}" />
 	<object class="Timeline" id="{e21b597d-48d4-49ca-8dd5-cd370a0e0e70}">
 		<property name="isProxyEnabled">
@@ -165,7 +169,10 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-17.5</value>
+			<value>-20</value>
+		</property>
+		<property name="curveShape">
+			<value>-0.30145663</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{95edeea0-72a1-4ec6-964c-2afd706249f6}">
@@ -173,7 +180,7 @@
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>-6.5</value>
+			<value>-9</value>
 		</property>
 	</object>
 </objects>

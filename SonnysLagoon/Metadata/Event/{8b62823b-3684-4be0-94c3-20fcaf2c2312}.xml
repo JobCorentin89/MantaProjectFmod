@@ -114,8 +114,14 @@
 	</object>
 	<object class="MixerBusPanner" id="{52edead6-f5b9-463f-9d43-d0af14c0a9f8}" />
 	<object class="SingleSound" id="{5f0c2edf-0af5-4beb-ada0-8b738c7578c9}">
+		<property name="isAsync">
+			<value>true</value>
+		</property>
 		<property name="length">
 			<value>15.379666666666667</value>
+		</property>
+		<property name="looping">
+			<value>true</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{2d4a7aaf-dc43-45a3-9fac-98e695eae3a5}</destination>
@@ -132,6 +138,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{87dff235-c30b-433d-a3de-89d9d0ce5490}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -169,14 +178,11 @@
 		<property name="initialValue">
 			<value>-80</value>
 		</property>
-		<property name="attackTime">
-			<value>6000</value>
-		</property>
 		<property name="attackShape">
 			<value>-0.291795075</value>
 		</property>
 		<property name="releaseTime">
-			<value>580</value>
+			<value>360</value>
 		</property>
 		<property name="releaseShape">
 			<value>-0.145493403</value>
@@ -216,6 +222,7 @@
 	</object>
 	<object class="MixerBusEffectChain" id="{b2a5524a-706c-4e24-a46b-8d161c6c8c9b}">
 		<relationship name="effects">
+			<destination>{851eb3ed-ecbd-405d-b529-7c78b77154c5}</destination>
 			<destination>{19f7b315-9dfb-4826-af75-f9f4e74c03ae}</destination>
 		</relationship>
 	</object>
@@ -265,6 +272,14 @@
 		</property>
 		<property name="value">
 			<value>1</value>
+		</property>
+	</object>
+	<object class="MultibandEqEffect" id="{851eb3ed-ecbd-405d-b529-7c78b77154c5}">
+		<property name="filterTypeA">
+			<value>14</value>
+		</property>
+		<property name="frequencyA">
+			<value>85</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{19f7b315-9dfb-4826-af75-f9f4e74c03ae}" />
