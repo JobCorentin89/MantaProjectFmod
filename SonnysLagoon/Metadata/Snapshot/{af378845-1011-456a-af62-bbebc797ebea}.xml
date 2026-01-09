@@ -4,6 +4,9 @@
 		<property name="name">
 			<value>Music_Ducking_Hard</value>
 		</property>
+		<property name="behavior">
+			<value>1</value>
+		</property>
 		<relationship name="mixer">
 			<destination>{5c1803fc-d080-46a1-acd8-07b842b9f480}</destination>
 		</relationship>
