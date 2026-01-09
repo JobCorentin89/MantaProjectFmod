@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EffectPreset" id="{047c9202-06dc-4515-9e71-ea2f870371dd}">
+		<property name="name">
+			<value>EffectChain_AmbVolume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{828464d2-5da7-4141-9743-41d9c45fda17}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{304b0a89-6b57-4462-855a-5abd01ef3eb0}</destination>
+		</relationship>
+	</object>
+	<object class="EffectChain" id="{304b0a89-6b57-4462-855a-5abd01ef3eb0}">
+		<relationship name="effects">
+			<destination>{f30b1554-be4f-4d64-b086-b2081472fe0b}</destination>
+		</relationship>
+	</object>
+	<object class="GainEffect" id="{f30b1554-be4f-4d64-b086-b2081472fe0b}">
+		<relationship name="modulators">
+			<destination>{8d96f5c9-56f5-43ad-84bb-72047cb61e4d}</destination>
+		</relationship>
+	</object>
+	<object class="ADSRModulator" id="{8d96f5c9-56f5-43ad-84bb-72047cb61e4d}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>gain</value>
+		</property>
+		<property name="initialValue">
+			<value>-80</value>
+		</property>
+		<property name="attackShape">
+			<value>-0.23367238</value>
+		</property>
+		<property name="releaseTime">
+			<value>5400</value>
+		</property>
+		<property name="releaseShape">
+			<value>-0.291795075</value>
+		</property>
+		<property name="finalValue">
+			<value>-80</value>
+		</property>
+	</object>
+</objects>
