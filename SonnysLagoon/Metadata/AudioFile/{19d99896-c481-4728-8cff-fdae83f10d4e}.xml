@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{19d99896-c481-4728-8cff-fdae83f10d4e}">
+		<property name="assetPath">
+			<value>SFX/Env/Env_Vortex_Loop_Low.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>10.4984375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
+		</relationship>
+	</object>
+</objects>

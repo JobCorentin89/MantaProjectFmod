@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EffectPreset" id="{c537da46-914f-4d46-83b3-51c0258acb29}">
+		<property name="name">
+			<value>Gain_Direction_Volume</value>
+		</property>
+		<relationship name="folder">
+			<destination>{828464d2-5da7-4141-9743-41d9c45fda17}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{76e8b895-0730-4a9d-bb9e-8a783e15baab}</destination>
+		</relationship>
+	</object>
+	<object class="GainEffect" id="{76e8b895-0730-4a9d-bb9e-8a783e15baab}">
+		<relationship name="automators">
+			<destination>{552339aa-752d-4939-919a-895423907a3b}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{552339aa-752d-4939-919a-895423907a3b}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>gain</value>
+		</property>
+		<relationship name="automationCurves">
+			<destination>{c01352dc-0b01-4aed-b39f-fd71811036c2}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationCurve" id="{c01352dc-0b01-4aed-b39f-fd71811036c2}">
+		<relationship name="parameter">
+			<destination>{4cce2478-af3e-4647-b246-f693f9f665ab}</destination>
+		</relationship>
+		<relationship name="automationPoints">
+			<destination>{f4a3ccc2-4e0f-4d07-9ff1-a059ebadbf25}</destination>
+			<destination>{f9863820-8ee7-4975-b902-254277b05f6e}</destination>
+			<destination>{5f274512-8284-44f4-854d-888b7b4b6561}</destination>
+			<destination>{b04e15b0-215d-405a-90ff-d7570fd15387}</destination>
+			<destination>{d8d6b01f-7cee-4d5e-bed2-d2597561ece1}</destination>
+		</relationship>
+	</object>
+	<object class="AutomationPoint" id="{f4a3ccc2-4e0f-4d07-9ff1-a059ebadbf25}">
+		<property name="position">
+			<value>-180</value>
+		</property>
+		<property name="value">
+			<value>-6</value>
+		</property>
+		<property name="curveShape">
+			<value>-0.246463433</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{f9863820-8ee7-4975-b902-254277b05f6e}">
+		<property name="position">
+			<value>180</value>
+		</property>
+		<property name="value">
+			<value>-6</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{5f274512-8284-44f4-854d-888b7b4b6561}">
+		<property name="position">
+			<value>0</value>
+		</property>
+		<property name="value">
+			<value>3.81469727e-06</value>
+		</property>
+		<property name="curveShape">
+			<value>0.22163862</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{b04e15b0-215d-405a-90ff-d7570fd15387}">
+		<property name="position">
+			<value>-45</value>
+		</property>
+		<property name="value">
+			<value>-3</value>
+		</property>
+		<property name="curveShape">
+			<value>-0.221638724</value>
+		</property>
+	</object>
+	<object class="AutomationPoint" id="{d8d6b01f-7cee-4d5e-bed2-d2597561ece1}">
+		<property name="position">
+			<value>45</value>
+		</property>
+		<property name="value">
+			<value>-3</value>
+		</property>
+		<property name="curveShape">
+			<value>0.197577089</value>
+		</property>
+	</object>
+</objects>
