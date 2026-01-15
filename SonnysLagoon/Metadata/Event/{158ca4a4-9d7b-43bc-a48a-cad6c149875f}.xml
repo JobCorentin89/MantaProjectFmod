@@ -60,7 +60,7 @@
 			<destination>{40c92388-1b31-4d76-ab13-6adb8c0ec2d1}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ac77c2f5-b2d4-47f9-8fb4-9df706cc4f56}</destination>
+			<destination>{81d42f2b-20c0-4b69-a998-e66ae0da6f4a}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{26d91b51-e5b2-44bd-8948-39a52f454fac}" />
@@ -130,6 +130,9 @@
 	<object class="EventSound" id="{c73dc670-e263-4318-8403-cbe972445489}">
 		<property name="length">
 			<value>30.800000000000001</value>
+		</property>
+		<property name="volume">
+			<value>6.5</value>
 		</property>
 		<relationship name="event">
 			<destination>{b2371540-d0c1-4732-8598-b3deba723968}</destination>
@@ -225,10 +228,10 @@
 			<value>1</value>
 		</property>
 		<property name="minimumDistance">
-			<value>9</value>
+			<value>10</value>
 		</property>
 		<property name="maximumDistance">
-			<value>73</value>
+			<value>91</value>
 		</property>
 		<property name="overrideRange">
 			<value>true</value>
@@ -277,7 +280,7 @@
 			<value>-180</value>
 		</property>
 		<property name="value">
-			<value>-20</value>
+			<value>-6</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{781968f1-4457-43df-ad05-24bb24bf080b}">
@@ -285,7 +288,7 @@
 			<value>180</value>
 		</property>
 		<property name="value">
-			<value>-20</value>
+			<value>-6</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{c6619de4-6ca4-476f-b8ac-bdcea064ebbf}">
