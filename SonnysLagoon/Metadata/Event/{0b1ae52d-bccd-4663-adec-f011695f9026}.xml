@@ -169,9 +169,6 @@
 		<property name="start">
 			<value>1</value>
 		</property>
-		<property name="volume">
-			<value>-1.5</value>
-		</property>
 		<relationship name="event">
 			<destination>{ca0ff260-5140-418b-926c-7e01780c12bb}</destination>
 		</relationship>
