@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{6c7ea8fe-c9aa-4970-9a66-1e6280b37652}">
+		<property name="name">
+			<value>music_boost</value>
+		</property>
+		<relationship name="folder">
+			<destination>{986c6ab4-4ee1-43e4-b28a-df70e428a79b}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{59b404ac-1fdd-4bab-82bb-b916033bc38c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{59b404ac-1fdd-4bab-82bb-b916033bc38c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="automators">
+			<destination>{5cf572d9-24c3-46f4-839d-f161e709351c}</destination>
+		</relationship>
+		<relationship name="modulators">
+			<destination>{ac5bc966-ae63-4261-810c-caa36fc0d296}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{5cf572d9-24c3-46f4-839d-f161e709351c}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+	<object class="SidechainModulator" id="{ac5bc966-ae63-4261-810c-caa36fc0d296}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+	</object>
+</objects>

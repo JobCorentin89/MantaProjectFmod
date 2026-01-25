@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{8ec589cf-6372-47e6-bc2e-4ba64dec4775}">
+	<object class="AudioFile" id="{45377b1b-1a79-421a-86db-bc2d2381158f}">
 		<property name="assetPath">
-			<value>Music/Music_Level02_MASTER_143.wav</value>
+			<value>Music/Placeholders/RailLoop Test.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>255.10489583333333</value>
+			<value>7.2180625000000003</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>

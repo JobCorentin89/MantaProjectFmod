@@ -71,7 +71,7 @@
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>-8</value>
+			<value>-3</value>
 		</property>
 	</object>
 	<object class="Automator" id="{86b34eec-bc13-49ae-b2f8-62c40e4c6d48}">
@@ -137,7 +137,7 @@
 			<value>1</value>
 		</property>
 		<property name="value">
-			<value>1100</value>
+			<value>1600</value>
 		</property>
 	</object>
 </objects>
