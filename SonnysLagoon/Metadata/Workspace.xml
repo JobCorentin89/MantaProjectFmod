@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{bd09ea81-eb5c-4443-8e4d-0b8fd0a09b6e}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../MantaMadness/MantaMadness/Assets/FMOD</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{f1ca2c97-d7a6-439b-9de7-109c73e030ca}</destination>
 		</relationship>
