@@ -27,7 +27,6 @@
 		</relationship>
 		<relationship name="groupTracks">
 			<destination>{11e9e467-dc40-42ec-84be-d65377bdfc06}</destination>
-			<destination>{4d389c70-a69c-4a1e-ad19-7cdc5f1198b7}</destination>
 		</relationship>
 		<relationship name="timeline">
 			<destination>{b7e05752-3c2f-4713-b969-c7bed2f04892}</destination>
@@ -71,11 +70,6 @@
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{8251b8f7-89ce-45da-8d43-54f13b419350}</destination>
-		</relationship>
-	</object>
-	<object class="GroupTrack" id="{4d389c70-a69c-4a1e-ad19-7cdc5f1198b7}">
-		<relationship name="mixerGroup">
-			<destination>{4d16ecf4-f0fc-4206-ac93-cf44db46b3a7}</destination>
 		</relationship>
 	</object>
 	<object class="Timeline" id="{b7e05752-3c2f-4713-b969-c7bed2f04892}">
@@ -169,26 +163,6 @@
 			<destination>{6661aea1-7d78-4de6-83ff-a4eb3849e9b7}</destination>
 		</relationship>
 	</object>
-	<object class="EventMixerGroup" id="{4d16ecf4-f0fc-4206-ac93-cf44db46b3a7}">
-		<property name="overridingInputFormat">
-			<value>1</value>
-		</property>
-		<property name="name">
-			<value>Audio 2</value>
-		</property>
-		<relationship name="modulators">
-			<destination>{55f16fee-847e-4b4d-9e3a-2e301c9d7280}</destination>
-		</relationship>
-		<relationship name="effectChain">
-			<destination>{a95fa7c5-c726-40fe-b19c-5d1883c10494}</destination>
-		</relationship>
-		<relationship name="panner">
-			<destination>{0914c0d2-f88f-45df-9796-12588393414d}</destination>
-		</relationship>
-		<relationship name="output">
-			<destination>{6661aea1-7d78-4de6-83ff-a4eb3849e9b7}</destination>
-		</relationship>
-	</object>
 	<object class="ADSRModulator" id="{2f24c602-be1b-4f1f-bfe8-7beecb1cb487}">
 		<property name="nameOfPropertyBeingModulated">
 			<value>volume</value>
@@ -222,36 +196,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{83085a24-5506-44bc-80a8-fa9708cc1b78}" />
-	<object class="ADSRModulator" id="{55f16fee-847e-4b4d-9e3a-2e301c9d7280}">
-		<property name="nameOfPropertyBeingModulated">
-			<value>volume</value>
-		</property>
-		<property name="initialValue">
-			<value>-80</value>
-		</property>
-		<property name="attackTime">
-			<value>2000</value>
-		</property>
-		<property name="attackShape">
-			<value>-0.456475168</value>
-		</property>
-		<property name="finalValue">
-			<value>-80</value>
-		</property>
-	</object>
-	<object class="MixerBusEffectChain" id="{a95fa7c5-c726-40fe-b19c-5d1883c10494}">
-		<relationship name="effects">
-			<destination>{73f91cc5-9c24-46cf-b6a7-a80a0519b9c3}</destination>
-			<destination>{c7b777f5-4691-442e-bb46-16b7e6482133}</destination>
-		</relationship>
-	</object>
-	<object class="MixerBusPanner" id="{0914c0d2-f88f-45df-9796-12588393414d}">
-		<property name="overridingOutputFormat">
-			<value>1</value>
-		</property>
-	</object>
 	<object class="MixerBusFader" id="{8cc4ff5f-5a61-4b56-9054-c0669c65d89e}" />
 	<object class="MixerBusFader" id="{70aa1bcf-2d51-422a-affe-9181fb6e8561}" />
-	<object class="TransceiverEffect" id="{73f91cc5-9c24-46cf-b6a7-a80a0519b9c3}" />
-	<object class="MixerBusFader" id="{c7b777f5-4691-442e-bb46-16b7e6482133}" />
 </objects>

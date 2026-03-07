@@ -134,6 +134,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{9cc1eeb9-7ccb-4e1b-8618-ec59075a7559}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -151,14 +154,14 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{89642dbd-f32d-4b6b-908e-8e936d2958c2}">
-		<property name="volume">
-			<value>-80</value>
+		<property name="color">
+			<value>Yellow</value>
 		</property>
 		<property name="overridingInputFormat">
 			<value>1</value>
 		</property>
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Fever Layer</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{b59019bf-456a-4801-b20c-3a6f43b12944}</destination>
@@ -224,7 +227,7 @@
 	<object class="MixerBusPanner" id="{92c25765-a85c-4d7d-bb15-6122a4085f99}" />
 	<object class="MixerBusEffectChain" id="{b59019bf-456a-4801-b20c-3a6f43b12944}">
 		<relationship name="effects">
-			<destination>{2ce48625-6293-4bfe-b340-804cfd23f2ca}</destination>
+			<destination>{33243969-bcbf-4825-bd7c-6458ddf4f1e1}</destination>
 			<destination>{cd29837b-46de-43a1-b387-599261fdaea6}</destination>
 		</relationship>
 	</object>
@@ -257,13 +260,13 @@
 			<destination>{911105d7-426e-4905-832c-766f7f94ee6f}</destination>
 		</relationship>
 	</object>
-	<object class="TransceiverEffect" id="{2ce48625-6293-4bfe-b340-804cfd23f2ca}">
-		<property name="transmitMode">
-			<value>true</value>
-		</property>
-		<property name="speakerMode">
+	<object class="ProxyEffect" id="{33243969-bcbf-4825-bd7c-6458ddf4f1e1}">
+		<property name="inputFormat">
 			<value>1</value>
 		</property>
+		<relationship name="preset">
+			<destination>{21559bda-aba5-4bbd-ab18-6c3b3a8d5f00}</destination>
+		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{cd29837b-46de-43a1-b387-599261fdaea6}" />
 	<object class="AutomationPoint" id="{5457dc4e-d538-4dec-bb91-65785af4e649}">
