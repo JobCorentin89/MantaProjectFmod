@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c091299d-5c79-4513-a23e-7bdea07f389f}">
+		<property name="assetPath">
+			<value>Magic, Shimmer, Spell, Cast, Debuff, Power Down, Chime, Glimmer, Negative SND86920 S00.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.563625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
+		</relationship>
+	</object>
+</objects>

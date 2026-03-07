@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{5e917d36-c08f-4d92-803e-e5d94fb11c12}">
+		<property name="assetPath">
+			<value>Musical, Misc, Air Horn, Dancehall Style, Meme SND31125 S01 1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.3902187499999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
+		</relationship>
+	</object>
+</objects>
