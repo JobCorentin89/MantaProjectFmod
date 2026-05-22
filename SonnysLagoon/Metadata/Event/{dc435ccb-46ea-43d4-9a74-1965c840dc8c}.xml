@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{dc435ccb-46ea-43d4-9a74-1965c840dc8c}">
-		<property name="color">
-			<value>Red</value>
-		</property>
 		<property name="name">
 			<value>Dialog_High</value>
 		</property>
@@ -12,6 +9,9 @@
 		</property>
 		<relationship name="folder">
 			<destination>{0e4f9848-8ff0-4346-8cc2-cce3c561df10}</destination>
+		</relationship>
+		<relationship name="tags">
+			<destination>{70196660-5ec3-42a7-ad2b-2ddddc00ce8f}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{5a3867d4-93ed-47c8-b999-eb558f803267}</destination>
