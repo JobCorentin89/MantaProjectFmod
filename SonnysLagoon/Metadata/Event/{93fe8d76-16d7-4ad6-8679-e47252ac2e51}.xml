@@ -2,10 +2,10 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{93fe8d76-16d7-4ad6-8679-e47252ac2e51}">
 		<property name="color">
-			<value>Red</value>
+			<value>Yellow</value>
 		</property>
 		<property name="name">
-			<value>Env_Shop_SpawnItem</value>
+			<value>Env_SpawnItem</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
