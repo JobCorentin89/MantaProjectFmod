@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{65b27576-0e23-4a75-b508-a20e0f4e455e}">
+		<property name="assetPath">
+			<value>SFX/UI/UI_Shop_Buy_004.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.69999999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{22f6f2ef-5d78-4378-aafa-1c1de5557209}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{6ee05855-1edc-44cc-9faf-82e9b25aeaf9}">
-		<property name="color">
-			<value>Yellow</value>
-		</property>
 		<property name="name">
 			<value>Stinger_CrystalActivated</value>
 		</property>
