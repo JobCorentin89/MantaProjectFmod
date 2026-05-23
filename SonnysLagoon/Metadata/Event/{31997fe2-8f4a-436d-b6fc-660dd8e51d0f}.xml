@@ -219,12 +219,6 @@
 		<property name="value">
 			<value>1</value>
 		</property>
-		<property name="curveShape">
-			<value>-0.415428311</value>
-		</property>
-		<property name="isSCurve">
-			<value>true</value>
-		</property>
 	</object>
 	<object class="AutomationPoint" id="{973ed420-c09f-4fad-a9b4-7b2b5862d618}">
 		<property name="position">
